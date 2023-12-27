@@ -1,0 +1,28 @@
+[08-Jun-2021 13:01:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/stagingit/dev05.stagingit.net/Som/hmc/confirm.php on line 29
+[11-Jun-2021 15:55:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/stagingit/dev05.stagingit.net/Som/hmc/confirm.php on line 29
+[22-Sep-2021 09:45:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 134
+[22-Sep-2021 09:48:34 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 134
+[22-Sep-2021 09:51:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 125
+[22-Sep-2021 10:06:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 125
+[22-Sep-2021 10:06:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 125
+[22-Sep-2021 10:06:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 125
+[22-Sep-2021 12:04:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 124
+[22-Sep-2021 12:05:57 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 140
+[22-Sep-2021 12:06:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 140
+[22-Sep-2021 12:06:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 140
+[22-Sep-2021 12:09:56 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 119
+[22-Sep-2021 12:16:05 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 121
+[22-Sep-2021 13:17:57 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/stagingit/dev05.stagingit.net/Som/hmc/product_new.php on line 129
+[22-Sep-2021 13:18:21 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/stagingit/dev05.stagingit.net/Som/hmc/product_new.php on line 129
+[22-Sep-2021 13:18:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/stagingit/dev05.stagingit.net/Som/hmc/product_new.php on line 132
+[22-Sep-2021 13:18:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/stagingit/dev05.stagingit.net/Som/hmc/product_new.php on line 132
+[22-Sep-2021 13:43:58 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/stagingit/dev05.stagingit.net/Som/hmc/product_new.php on line 133
+[29-Sep-2021 08:49:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 20
+[29-Sep-2021 08:50:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 16
+[01-Oct-2021 09:44:37 UTC] PHP Parse error:  syntax error, unexpected '$typeB' (T_VARIABLE) in /home/stagingit/dev05.stagingit.net/Som/hmc/bp_config/verbiage.php on line 28
+[01-Oct-2021 09:44:42 UTC] PHP Parse error:  syntax error, unexpected '$typeB' (T_VARIABLE) in /home/stagingit/dev05.stagingit.net/Som/hmc/bp_config/verbiage.php on line 28
+[23-Nov-2021 14:01:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 65
+[23-Nov-2021 14:02:12 UTC] PHP Parse error:  syntax error, unexpected 'data_product_billing_model' (T_STRING) in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 65
+[23-Nov-2021 14:02:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 65
+[23-Nov-2021 14:02:45 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 65
+[23-Nov-2021 14:03:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/stagingit/dev05.stagingit.net/Som/hmc/product.php on line 65
